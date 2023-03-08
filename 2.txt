@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 test add 1 10:58
 test add 2 11:02
-
-=======
 hello add 1 10:59
 hello add 2 11:03
->>>>>>> bdea5e9a3ec6ab13b798d88e5e948efd7a0fc714
